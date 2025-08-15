@@ -19,7 +19,6 @@ public class Client {
         Addons cream = new Cream(beverages);
         beverages = cream.addons();
         System.out.println(beverages.getCost());
-
     }
 
 
